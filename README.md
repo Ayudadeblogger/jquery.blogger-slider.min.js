@@ -1,0 +1,1 @@
+# jquery.blogger-slider.min.js
